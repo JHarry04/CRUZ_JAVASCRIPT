@@ -42,9 +42,9 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Harry", "brown", "T-Shirt", "Bracelet");
-mintNFT("Leo", "brown", "Sando", "Earrings");
-mintNFT("Ray", "black", "Coat", "Ring");
-mintNFT("John", "blue", "Tuxedo", "Chain");
+mintNFT("Harry", "Brown", "T-Shirt", "Bracelet");
+mintNFT("Leo", "Brown", "Sando", "Earrings");
+mintNFT("Ray", "Black", "Coat", "Ring");
+mintNFT("John", "Blue", "Tuxedo", "Chain");
 listNFTs();
 getTotalSupply();
